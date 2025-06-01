@@ -11,12 +11,14 @@
             "id": "cc33f74af549cbec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "数据结构/教材严蔚敏.pdf"
+                "file": "数据结构/数据结构学习笔记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "教材严蔚敏"
+              "icon": "lucide-file",
+              "title": "数据结构学习笔记"
             }
           }
         ]
@@ -166,11 +168,11 @@
   },
   "active": "cc33f74af549cbec",
   "lastOpenFiles": [
-    "数据结构/样卷.pdf",
-    "数据结构/教材严蔚敏.pdf",
     "数据结构/教材邓俊辉.pdf",
-    "数据结构/数据结构学习笔记.md",
     "离散数学/离散数学学习笔记.md",
+    "数据结构/教材严蔚敏.pdf",
+    "数据结构/样卷.pdf",
+    "数据结构/数据结构学习笔记.md",
     "未命名.canvas",
     "离散数学",
     "数据结构",
