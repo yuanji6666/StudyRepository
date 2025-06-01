@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "13f073013b1791e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb34939a1397476a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc33f74af549cbec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据结构/教材严蔚敏.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "教材严蔚敏"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f152d535ce980559",
+    "type": "split",
+    "children": [
+      {
+        "id": "58924c724d221b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32eba36115fe349c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "baed49c8330f1224",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5b6c67da762045b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9c63724560c94ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "917f17f6ed76a5c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182f2209c5dca655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "9452265e535a9691",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构学习笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数据结构学习笔记 的出链列表"
+            }
+          },
+          {
+            "id": "f5e5de8c522acca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a3232270f84532d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cc33f74af549cbec",
+  "lastOpenFiles": [
+    "数据结构/样卷.pdf",
+    "数据结构/教材严蔚敏.pdf",
+    "数据结构/教材邓俊辉.pdf",
+    "数据结构/数据结构学习笔记.md",
+    "离散数学/离散数学学习笔记.md",
+    "未命名.canvas",
+    "离散数学",
+    "数据结构",
+    "未命名 1.md",
+    "离散数学.md",
+    "白板测试.canvas",
+    "2025-06-01.md",
+    "测试.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "a.cpp",
+    "欢迎.md"
+  ]
+}
