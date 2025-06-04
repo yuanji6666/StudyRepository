@@ -4,62 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2277e43f96d9fe3c",
-        "type": "split",
+        "id": "779f651c13fd8996",
+        "type": "tabs",
         "dimension": 46.02543720190779,
         "children": [
           {
-            "id": "cb34939a1397476a",
-            "type": "tabs",
-            "dimension": 57.99999999999999,
-            "children": [
-              {
-                "id": "cc33f74af549cbec",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "数据结构/样卷.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "样卷"
-                }
-              }
-            ]
-          },
-          {
-            "id": "779f651c13fd8996",
-            "type": "tabs",
-            "dimension": 42,
-            "children": [
-              {
-                "id": "1c5894144a1104ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "数据结构/DS Note.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "DS Note"
-                }
-              }
-            ]
+            "id": "1c5894144a1104ba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/森林与二叉树对应关系.png"
+              },
+              "icon": "lucide-image",
+              "title": "森林与二叉树对应关系"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "99ce46bbf7ec9373",
@@ -70,12 +31,24 @@
             "id": "3a4b4f3e11c5a0eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "数据结构/教材邓俊辉.pdf"
+                "file": "数据结构/DS Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "教材邓俊辉"
+              "icon": "lucide-file",
+              "title": "DS Note"
             }
           }
         ]
@@ -220,21 +193,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "handwritten-notes:Create empty handwritten note": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "cc33f74af549cbec",
+  "active": "32eba36115fe349c",
   "lastOpenFiles": [
     "数据结构/DS Note.md",
-    "数据结构/样卷.pdf",
     "数据结构/教材邓俊辉.pdf",
-    "森林与二叉树对应关系.png",
-    "未命名.md",
+    "images/森林与二叉树对应关系.png",
+    "数据结构/样卷.pdf",
     "数据结构/教材严蔚敏.pdf",
+    "概率论与数理统计/概率论与数理统计（陈希孺）.pdf",
+    "images",
+    "概率论与数理统计",
+    "未命名.md",
     "离散数学/离散数学学习笔记.md",
     "未命名.canvas",
     "readme.md",
