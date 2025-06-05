@@ -6,33 +6,40 @@
       {
         "id": "d1344f6480978551",
         "type": "tabs",
+        "dimension": 63.3248730964467,
         "children": [
-          {
-            "id": "4367186ba113caa2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
           {
             "id": "7be2d179d2fb794a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "数据结构/DS Note.md",
-                "mode": "source",
-                "source": false
+                "file": "数据结构/样卷.pdf"
               },
-              "icon": "lucide-file",
-              "title": "DS Note"
+              "icon": "lucide-file-text",
+              "title": "样卷"
             }
           }
-        ],
-        "stacked": true
+        ]
+      },
+      {
+        "id": "2388f139170aa6ae",
+        "type": "tabs",
+        "dimension": 36.6751269035533,
+        "children": [
+          {
+            "id": "58c92754b861f0f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据结构/教材邓俊辉.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "教材邓俊辉"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,17 +186,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef5cd0dafaabb4b2",
+  "active": "7be2d179d2fb794a",
   "lastOpenFiles": [
-    "数据结构/教材邓俊辉.pdf",
-    "数据结构/DS Note.md",
+    "images/十大排序算法总结.png",
     "数据结构/样卷.pdf",
+    "数据结构/DS Note.md",
+    "images/十大排序算法总结.png.crdownload",
+    "数据结构/教材邓俊辉.pdf",
     "数据结构/教材严蔚敏.pdf",
+    "images/Pasted image 20250605212809.png",
+    "概率论与数理统计/概率论与数理统计（陈希孺）.pdf",
+    "离散数学/离散数学学习笔记.md",
     "images/Pasted image 20250605165634.png",
     "images/Pasted image 20250605165608.png",
     "images/Pasted image 20250605165144.png",
-    "images/Pasted image 20250605164835.png",
-    "概率论与数理统计/概率论与数理统计（陈希孺）.pdf",
-    "离散数学/离散数学学习笔记.md"
+    "images/Pasted image 20250605164835.png"
   ]
 }

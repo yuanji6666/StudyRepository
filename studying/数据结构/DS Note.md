@@ -50,7 +50,27 @@ BFS DFS 及dfs bfs tree forest
 #### dijkstra算法
 #### floyd算法
 两种算法时间复杂度无区别，进行n次dijstra算法等效于floyd
+# 查找
+## 概念辨析
+- ASL average search length 等于查找概率与查找长度乘积之和
+- 动态查找表 如BST，其结构是在查找过程中动态生成的，插入，删除
+## 关键算法
+### BST(binary search tree)二叉查找树/二叉搜索树家族
+#### 左右都不为空情况下删除节点方法
 
+![[Pasted image 20250605212809.png]]
+> 解释，方法一利用的是二叉排序树右子树大于根大于左子树的特性；方法二利用直接前驱后继一定只有一个或没有子树，如果有的话，往下延伸一定能继续逼近，矛盾。
 
+#### AVL树(平衡二叉搜索树)
 
+> 由G. M. Adelson-Velsky和E. M. Landis不1962年収明[36]，幵以他们名字的首字母命名
 
+[[教材邓俊辉.pdf#page=216&selection=390,0,401,3|教材邓俊辉, 页面 216]]
+[avl树动态演示](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+根据插入/删除后的形态，一定能在两次旋转（单旋/双旋）以内恢复其平衡
+##### 统一重平衡算法
+找到最低失衡点，孩子节点，孙子节点，中序排序，对应的子树中序排序重组起来（省略中间步骤）
+
+# 排序
+[十大经典排序算法-菜鸟教程](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
+![[十大排序算法总结.png]]
