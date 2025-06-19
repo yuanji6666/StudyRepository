@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d1344f6480978551",
+        "id": "7caff9f774a2ba7c",
         "type": "tabs",
         "children": [
           {
-            "id": "26dda32d5417eafc",
+            "id": "c8172bc20b51f167",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 93,
-                  "zoom": -0.5
-                }
+                "file": "大学物理/大学物理（上）要点.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file-text",
+              "title": "大学物理（上）要点"
             }
           }
         ]
@@ -81,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "984659aa7f60b077",
@@ -171,52 +166,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "floating": {
-    "id": "e47bd7afd9a9608d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4395b7087bb9d296",
-        "type": "window",
-        "children": [
-          {
-            "id": "f1c61c60bdf18c7c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3242ab0c04ea4aca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "数据结构/DS Note.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "DS Note"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "26dda32d5417eafc",
+  "active": "c8172bc20b51f167",
   "lastOpenFiles": [
-    "数据结构/样卷.pdf",
+    "微积分/微积分期末试卷及解答/2018级微积分（一）下A卷.pdf",
+    "微积分/微积分期末试卷及解答/2018级微积分（一）下A卷解答.pdf",
+    "微积分/微积分期末试卷及解答/2020级微积分（一）下A卷.pdf",
+    "大学物理/大学物理（上）要点.pdf",
+    "微积分/微积分期末试卷及解答/本学期考试范围与不涉及问题_20240603144358(1).pdf",
+    "微积分/微积分期末试卷及解答/2023级微积分（一）下期末A卷解答.pdf",
+    "微积分/微积分期末试卷及解答/2022级微积分(一)下期末试题解答.pdf",
+    "微积分/微积分期末试卷及解答/2023级微积分（一）下期末A卷.pdf",
+    "微积分/微积分期末试卷及解答/2019级微积分（一）下A卷.pdf",
+    "微积分/微积分期末试卷及解答/2019级微积分（一）下A卷解答.pdf",
+    "微积分/微积分期末试卷及解答/2021级微积分（一）下期末试题A卷解答.pdf",
+    "微积分/Calculus Notes.md",
     "数据结构/DS Note.md",
-    "数据结构/教材邓俊辉.pdf",
-    "数据结构/B卷(2).pdf",
-    "数据结构/教材严蔚敏.pdf",
+    "会议记录/0612年纪大会/核心专业课.jpg",
+    "会议记录/0612年纪大会/计算机科学研究领域.jpg",
+    "会议记录/0612年纪大会/程导联系方式.jpg",
     "未命名.canvas",
     "images/十大排序算法总结.png",
     "images/Pasted image 20250605164835.png",
@@ -224,9 +191,7 @@
     "未命名 2.canvas",
     "未命名 1.canvas",
     "images/森林与二叉树对应关系.png",
-    "images/十大排序算法总结.png.crdownload",
     "images/Pasted image 20250605212809.png",
-    "概率论与数理统计/概率论与数理统计（陈希孺）.pdf",
     "离散数学/离散数学学习笔记.md",
     "images/Pasted image 20250605165634.png",
     "images/Pasted image 20250605165608.png",

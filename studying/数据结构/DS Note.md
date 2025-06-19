@@ -112,3 +112,7 @@ BFS DFS 及dfs bfs tree forest
 # 排序
 [十大经典排序算法-菜鸟教程](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
 ![[十大排序算法总结.png]]
+## 按时间复杂度分类归纳
+- $n^2$ :三种  冒泡 插入（扑克牌）选择（反复选择最小的）
+- $nlogn$：四种 希尔（插入排序的改进）归并 快速 堆
+- 基数排序
